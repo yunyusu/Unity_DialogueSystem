@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 2022/4/18 上午 08:02:16 : Starting C:/Users/Cooki/Desktop/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2784.0555ms
+moved types parse time: 205ms
+candidates parse time : 4ms
+C# parse time         : 811ms
+candidates check time : 129ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022/4/18 上午 08:04:33 : Starting C:/Users/Cooki/Desktop/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 286.157ms
+moved types parse time: 195ms
+candidates parse time : 3ms
+C# parse time         : 444ms
+candidates check time : 101ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/4/18 上午 08:05:11 : Starting C:/Users/Cooki/Desktop/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 268.7201ms
+moved types parse time: 230ms
+candidates parse time : 6ms
+C# parse time         : 823ms
+candidates check time : 181ms
+console write time    : 2ms
+
